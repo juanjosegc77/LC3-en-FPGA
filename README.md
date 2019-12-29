@@ -14,3 +14,6 @@ Se implementó un microprocesador LC3 en una tarjeta FPGA utilizando código VHD
 * Herramienta de simulación ModelSim para Altera Web Edition.
 
 Para la simulación se utilizó un conjunto de instrucciones para encontrar el primer 1 en una palabra (archivo .mem).
+
+
+![lc3_diagrama](https://user-images.githubusercontent.com/58958653/71551556-be7b7900-29af-11ea-9876-24fb05c75103.png)
