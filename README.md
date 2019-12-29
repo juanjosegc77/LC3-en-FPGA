@@ -1,6 +1,6 @@
-# Procesador LC3 en VHDL
+# Procesador LC3 con VHDL en FPGA
 
-Implementación en VHDL de un Microprocesador LC3-básico.
+Implementación en FGPA de un Microprocesador LC3-básico.
 
 
 ## Descripción
